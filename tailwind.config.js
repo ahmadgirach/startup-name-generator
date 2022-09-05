@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        primary: ['Source Sans Pro', 'sans-serif'],
+        primary: ['Fira Sans', 'sans-serif'],
       },
       colors: {
         'dark-blue': '#050A30',

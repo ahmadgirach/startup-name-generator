@@ -12,7 +12,7 @@ export const KeywordInput = ({ keyword, handleInputChange }: Props) => {
                 type='text'
                 value={keyword}
                 onChange={handleInputChange}
-                className='p-2 text-lg rounded-xl text-gray-800 bg-gray-400 outline-none w-1/3'
+                className='p-2 text-lg rounded-xl text-gray-800 bg-gray-400 outline-none lg:w-1/3'
             />
         </>
     )
