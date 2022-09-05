@@ -10,6 +10,7 @@ export const Link = ({ caption, link }: Props) => {
       rel="noopener noreferrer"
       target="_blank"
       className="text-blue-500"
+      tabIndex={0}
     >
       {caption}
     </a>
