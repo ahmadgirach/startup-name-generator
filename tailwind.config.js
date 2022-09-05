@@ -1,17 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-  ],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
       fontFamily: {
-        primary: ['Fira Sans', 'sans-serif'],
+        primary: ["Fira Sans", "sans-serif"],
       },
       colors: {
-        'dark-blue': '#050A30',
-        'light-gray': '#a5a5a5',
-      }
+        "dark-blue": "#050A30",
+        "light-gray": "#a5a5a5",
+      },
     },
   },
   plugins: [],
