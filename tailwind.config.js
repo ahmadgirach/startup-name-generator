@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        primary: ["Fira Sans", "sans-serif"],
+        primary: ["IBM Plex Sans", "sans-serif"],
       },
       colors: {
         "dark-blue": "#050A30",
