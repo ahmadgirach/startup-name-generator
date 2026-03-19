@@ -11,24 +11,24 @@
   },
   "dependencies": {
     "@rstacruz/startup-name-generator": "^0.3.0",
-    "@tailwindcss/vite": "^4.2.1",
+    "@tailwindcss/vite": "^4.2.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "tailwindcss": "^4.2.1"
+    "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@types/node": "^25.3.2",
+    "@types/node": "^25.5.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "@vitejs/plugin-react": "^5.1.4",
-    "eslint": "^10.0.2",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^10.0.3",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.5.2",
-    "globals": "^17.3.0",
+    "globals": "^17.4.0",
     "startup-name-generator": "link:@types/@rstacruz/startup-name-generator",
     "typescript": "~5.9.3",
-    "typescript-eslint": "^8.56.1",
-    "vite": "^7.3.1"
+    "typescript-eslint": "^8.57.1",
+    "vite": "^8.0.1"
   }
 }
